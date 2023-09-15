@@ -1,1 +1,1 @@
-# JAVASCRIPT
+1) Random Color Generator
