@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input {
+    width: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+}
+
+input:focus {
+    outline: none;
+    border: 2px solid royalblue;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 17px 30px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+    gap: 12px;
+}
+
+.tital{
+    font-size: 42px;
+}
